@@ -44,6 +44,7 @@ body{
     align-items:center;
     background-image:url("https://www.tripsavvy.com/thmb/PNB8H9JwDxvjsd1S8mtm3UKK2Qk=/2119x1415/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-5056166521-5947e7c75f9b58d58a7d2624.jpg");
     background-size:cover;
+    border-radius:20px 20px 0 0;
 }
 
 .culture{
@@ -90,4 +91,5 @@ body{
     justify-content:space-around;
     align-items:center;
     background:white;
+    border-radius:0 0 20px 20px;
 }
