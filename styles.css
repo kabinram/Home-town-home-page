@@ -14,7 +14,7 @@ body{
     width:450px;
     height:650px;
     border:6px solid #264653;
-    border-radius:20px;
+    border-radius:15px;
     transform:rotate(3deg);
 }  
 .title{
